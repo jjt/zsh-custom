@@ -1,5 +1,8 @@
 # vim:ft=zsh ts=2 sw=2 sts=2
 #
+# JJT's zsh theme
+#
+# Based off of: 
 # agnoster's Theme - https://gist.github.com/3712874
 # A Powerline-inspired theme for ZSH
 #
